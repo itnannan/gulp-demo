@@ -9,3 +9,10 @@ npm install gulp-concat --save-dev
 npm install gulp-less --save-dev
 npm install gulp-minify-css --save-dev
 npm install gulp-uglify --save-dev
+
+
+```
+git add .
+git commit -m "test"
+git push origin HEAD
+```
